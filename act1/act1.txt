@@ -1,0 +1,9 @@
+
+
+
+
+
+1.layout
+2.identify the changes you want to make-(setup "on-click listener")
+2. identify the
+3.assign the function
